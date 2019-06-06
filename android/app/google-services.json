@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16599953909",
+    "firebase_url": "https://smart-socket-32f13.firebaseio.com",
+    "project_id": "smart-socket-32f13",
+    "storage_bucket": "smart-socket-32f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16599953909:android:7027314112c7b6ca",
+        "android_client_info": {
+          "package_name": "com.smartsocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16599953909-0tgrb9ulmagiuvpk1mkjdrnvssp5st76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33RjT1pzZ3nkA9iz6r1CnaXPsQHsw2qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16599953909-0tgrb9ulmagiuvpk1mkjdrnvssp5st76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
