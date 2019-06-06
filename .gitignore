@@ -56,3 +56,5 @@ buck-out/
 *.jsbundle
 
 .vscode
+
+google-services.json
