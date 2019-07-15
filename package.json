@@ -7,8 +7,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "appcenter": "^2.1.0",
+    "appcenter-analytics": "^2.1.0",
+    "appcenter-crashes": "^2.1.0",
     "react": "16.8.3",
     "react-native": "0.59.8",
+    "react-native-ble-plx": "^1.0.3",
     "react-native-elements": "^1.1.0",
     "react-native-firebase": "^5.3.1",
     "react-native-responsive-screen": "^1.2.2",
