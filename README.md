@@ -11,5 +11,10 @@
 
 The code is located at the `ESP32` directory, open it on your Arduino IDE then flash it to your MCU.
 
+> *Note*: You may need to hold the boot button when the IDE starts uploading the code
+
 # Firebase
-TODO
+1. Create a Firebase account
+2. Go to `Settings > Service Accounts`
+3. Click `Database Secrets`, then `Add Secret`
+### TODO: ADD STEPS FOR REAL-TIME DATABASE
